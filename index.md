@@ -1,8 +1,5 @@
 ---
-title: Yeah GLO!
-name: Gali
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
 
----
----
-Date: 2002-08-09
 ---
